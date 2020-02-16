@@ -1,0 +1,20 @@
+[
+    {
+        "id": 2,
+        "nama": "SAFARUDIN",
+        "matkul": "Android Programming",
+        "no_hp": "085246530343"
+    },
+    {
+        "id": 3,
+        "nama": "Ilyas",
+        "matkul": "PBO",
+        "no_hp": "081240577775"
+    },
+    {
+        "id": 5,
+        "nama": "assessmen",
+        "matkul": "Android Programming",
+        "no_hp": "081344134035"
+    }
+]
